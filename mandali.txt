@@ -3,3 +3,7 @@ back
 pack
 hill
 tirumala
+baba
+sai
+shirdi
+tirupati
